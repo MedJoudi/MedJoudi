@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedJoudi
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Azure Fundamentals
-- 💞️ I’m looking to collaborate on {nothing}
+- 🌱 I’m currently learning Microsoft Azure
+- 💞️ I’m looking to collaborate on {Unity Projects}
 - 📫 How to reach me mohamed.joudi.1992@gmail.com
 
 <!---
