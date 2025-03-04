@@ -3,7 +3,7 @@ MedJoudi/MedJoudi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I’m Mohamed Joudi
+# 👋 Hi, I’m Joudi
 
 A passionate **Azure DevOps Engineer** with a love for building scalable, automated, and efficient cloud solutions. I thrive in collaborative environments and enjoy tackling challenges in cloud infrastructure and automation.
 
@@ -16,7 +16,7 @@ A passionate **Azure DevOps Engineer** with a love for building scalable, automa
 
 ---
 
-## 🛠️ Tech Stacks
+## <div style="display: flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"><span> Tech Stacks</span></div>
 
 ### ☁️ Cloud & Infrastructure
 - **Microsoft Azure** (IaaS, PaaS, Networking, Security)
@@ -29,7 +29,7 @@ A passionate **Azure DevOps Engineer** with a love for building scalable, automa
 - **C#** (Backend Development)
 - **Python** (Scripting & Automation)
 
-### ⚙️ DevOps & Automation
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30"> DevOps & Automation
 - **CI/CD Pipelines** (Azure DevOps, GitHub Actions)
 - **Ansible** (Automation & Configuration)
 - **AI Prompt Engineering** (Leveraging AI for productivity)
@@ -68,14 +68,14 @@ Here are some of the certifications I’ve earned to validate my skills:
 
 ---
 
-## 💞️ Looking to Collaborate On
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50"> Looking to Collaborate On
 - **Cloud Projects**: Designing and implementing scalable cloud solutions.
 - **Automation Projects**: Building CI/CD pipelines, infrastructure automation, and DevOps workflows.
 - **Open Source Contributions**: Collaborating on innovative tools and frameworks.
 
 ---
 
-## 🚀 Let’s Connect!
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="50"> Let’s Connect!
 If you’re passionate about **cloud computing**, **automation**, or **DevOps**, let’s connect and build something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/med-joudi)
@@ -83,4 +83,7 @@ If you’re passionate about **cloud computing**, **automation**, or **DevOps**,
 
 ---
 
-⭐️ **Fun Fact**: I believe automation is the future, and I’m here to make it happen!
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="100">
+</div>
+- I believe automation is the future, and I’m here to make it happen!
