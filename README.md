@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 A passionate **Azure DevOps Engineer** with a love for building scalable, automated, and efficient cloud solutions. I thrive in collaborative environments and enjoy tackling challenges in cloud infrastructure and automation.
 
+![trophy](https://github-profile-trophy.vercel.app/?username=MedJoudi)
+
 ---
 
 ## 💼 What I Do
