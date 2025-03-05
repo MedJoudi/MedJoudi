@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 A passionate **Azure DevOps Engineer** with a love for building scalable, automated, and efficient cloud solutions. I thrive in collaborative environments and enjoy tackling challenges in cloud infrastructure and automation.
 
+---
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=MedJoudi)
 
 ---
@@ -82,6 +84,7 @@ If you’re passionate about **cloud computing**, **automation**, or **DevOps**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/med-joudi)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:mohamed.joudi.1992@gmail.com)
+![](https://komarev.com/ghpvc/?username=med-joudi&style=flat-square&style=for-the-badge&color=brightgreen)
 
 ---
 
@@ -89,3 +92,6 @@ If you’re passionate about **cloud computing**, **automation**, or **DevOps**,
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9c351cb9-c9a2-4b20-8420-e96b8331a53b" width="100">
 </div>
 - I believe automation is the future, and I’m here to make it happen!
+
+---
+
